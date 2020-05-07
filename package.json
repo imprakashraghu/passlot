@@ -1,5 +1,5 @@
 {
-  "name": "io.passlot",
+  "name": "@prakashjaw/passlot",
   "version": "1.0.0",
   "description": "a nodejs helper module for dealing with passwords",
   "main": "index.js",  
