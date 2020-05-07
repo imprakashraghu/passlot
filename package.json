@@ -6,6 +6,17 @@
   "keywords": [
     "passlot", "password", "hash", "password helper", "helper", "encode" , "decode"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashjaw/passlot.git"
+  },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "author": "prakashjaw",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prakashjaw/passlot/issues"
+  },
+  "homepage": "https://github.com/prakashjaw/passlot#readme"  
 }
