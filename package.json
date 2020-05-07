@@ -1,22 +1,25 @@
 {
-  "name": "@prakashjaw/passlot",
+  "name": "@imprakashraghu/passlot",
   "version": "1.0.0",
   "description": "a nodejs helper module for dealing with passwords",
-  "main": "index.js",  
+  "main": "index.js",
   "keywords": [
-    "passlot", "password", "hash", "password helper", "helper", "encode" , "decode"
+    "passlot",
+    "password",
+    "hash",
+    "password helper",
+    "helper",
+    "encode",
+    "decode"
   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/prakashjaw/passlot.git"
-  },
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/" 
-  },
-  "author": "prakashjaw",
+  },   
+  "author": "imprakashraghu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/prakashjaw/passlot/issues"
   },
-  "homepage": "https://github.com/prakashjaw/passlot#readme"  
+  "homepage": "https://github.com/prakashjaw/passlot#readme"
 }
