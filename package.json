@@ -1,0 +1,11 @@
+{
+  "name": "io.passlot",
+  "version": "1.0.0",
+  "description": "a nodejs helper module for dealing with passwords",
+  "main": "index.js",  
+  "keywords": [
+    "passlot", "password", "hash", "password helper", "helper", "encode" , "decode"
+  ],
+  "author": "prakashjaw",
+  "license": "MIT"
+}
