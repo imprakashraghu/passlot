@@ -1,4 +1,9 @@
-# A Password Helper module for Nodejs
+# Password Helper module for Nodejs
+
+[![GitHub License](https://img.shields.io/github/license/prakashjaw/passlot)](https://github.com/prakashjaw/passlot/blob/master/LICENSE)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Release Version](https://img.shields.io/badge/release-v1.0.0-green)
+[![Module Author](https://img.shields.io/badge/author-prakashjaw-blue)](https://prakashjaw.bss.design)
 
 Passlot is a simple password helper module used to validate using your own condition, encrypt and decrypt.
 
